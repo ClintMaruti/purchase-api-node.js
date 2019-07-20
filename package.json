@@ -1,0 +1,28 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Project (Build a simple shop API)",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClintPy/purchase-api-node.js.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Clint Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClintPy/purchase-api-node.js/issues"
+  },
+  "homepage": "https://github.com/ClintPy/purchase-api-node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
